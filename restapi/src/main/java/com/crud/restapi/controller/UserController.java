@@ -13,9 +13,9 @@ import org.springframework.web.bind.annotation.RequestBody;
 // import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.crud.restapi.database.RepositoryUser;
 import com.crud.restapi.exception.UserNotFoundException;
 import com.crud.restapi.model.User;
+import com.crud.restapi.repository.RepositoryUser;
 
 @RestController //class REST
 @CrossOrigin("http://localhost:3000") //allow frontend access

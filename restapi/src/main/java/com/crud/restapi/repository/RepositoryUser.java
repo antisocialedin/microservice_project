@@ -1,4 +1,4 @@
-package com.crud.restapi.database;
+package com.crud.restapi.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
