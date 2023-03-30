@@ -5,7 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/eureka/eureka.iml" filepath="$PROJECT_DIR$/eureka/eureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/gateway/gateway.iml" filepath="$PROJECT_DIR$/gateway/gateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/microservice_project.iml" filepath="$PROJECT_DIR$/.idea/microservice_project.iml" />
-      <module fileurl="file://$PROJECT_DIR$/restapi/userservice.iml" filepath="$PROJECT_DIR$/restapi/userservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rest_api/rest_api.iml" filepath="$PROJECT_DIR$/rest_api/rest_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/userservice/userservice.iml" filepath="$PROJECT_DIR$/userservice/userservice.iml" />
     </modules>
   </component>
 </project>

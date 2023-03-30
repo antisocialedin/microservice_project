@@ -45,12 +45,13 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "D:/DEV/microservice_project",
+    "last_opened_file_path": "D:/DEV/microservice_project/rest_api/src/main/java/com/example/rest_api",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "spring.configuration.checksum": "b7eea8554af1d7396defa46ff861e18b",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -58,7 +59,15 @@
     <option name="notificationShown" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.userservice.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\DEV\microservice_project\rest_api\src\main\java\com\example\rest_api" />
+      <recent name="D:\DEV\microservice_project\client\src\main\java\com\example\client" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.rest_api" />
       <recent name="com.example.core.model" />
     </key>
   </component>
@@ -69,7 +78,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.GatewayApplication">
+  <component name="RunManager" selected="Spring Boot.RestApiApplication">
     <configuration name="EurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="eureka" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.eureka.EurekaApplication" />
@@ -84,6 +93,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RestApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="rest_api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.rest_api.RestApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="UserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="userservice" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.userservice.UserApplication" />
@@ -91,6 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Spring Boot.EurekaApplication" />
+      <item itemvalue="Spring Boot.UserApplication" />
+      <item itemvalue="Spring Boot.GatewayApplication" />
+      <item itemvalue="Spring Boot.RestApiApplication" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -101,6 +123,9 @@
       <option name="presentableId" value="Default" />
       <updated>1680031414230</updated>
       <workItem from="1680031415515" duration="34980000" />
+      <workItem from="1680111758298" duration="9894000" />
+      <workItem from="1680131017928" duration="25060000" />
+      <workItem from="1680189703117" duration="18993000" />
     </task>
     <servers />
   </component>

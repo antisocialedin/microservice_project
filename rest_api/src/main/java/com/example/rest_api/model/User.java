@@ -1,4 +1,4 @@
-package com.example.userservice.model;
+package com.example.rest_api.model;
 
 
 import jakarta.persistence.*;

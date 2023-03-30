@@ -1,30 +1,19 @@
-package com.example.userservice.model;
+package com.example.rest_api;
 
+public class UserDto {
 
-import jakarta.persistence.*;
-
-@Entity //generate entity user
-public class User {
-    @Id //id bd
-    @GeneratedValue(strategy = GenerationType.IDENTITY) //autoincrement id bd
-    private Long id;
-
-    @Column(nullable = false) //Column not null
     private String nome;
-
-    @Column(nullable = false) //Column not null
     private String idade;
-
-    @Column(nullable = false) //Column not null
     private String telefone;
 
-    //Getters and Setters
-    public Long getId() {
-        return id;
+    public UserDto(){
+
     }
 
-    public void setId(Long id) {
-        this.id = id;
+    public UserDto(String nome, String idade, String telefone){
+        this.nome = nome;
+        this.idade = idade;
+        this.telefone = telefone;
     }
 
     public String getNome() {

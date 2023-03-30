@@ -7,24 +7,29 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="rest_api" />
         <module name="eureka" />
         <module name="gateway" />
         <module name="userservice" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="client" target="17" />
       <module name="core" target="17" />
       <module name="eureka" target="17" />
       <module name="gateway" target="17" />
       <module name="microservice_project" target="17" />
+      <module name="rest_api" target="17" />
       <module name="userservice" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="client" options="-parameters" />
       <module name="core" options="-parameters" />
       <module name="eureka" options="-parameters" />
       <module name="gateway" options="-parameters" />
+      <module name="rest_api" options="-parameters" />
       <module name="userservice" options="-parameters" />
     </option>
   </component>
