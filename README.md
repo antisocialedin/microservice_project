@@ -1,28 +1,28 @@
-<h2><b>Resumo</b></h2>
+<h3><b>Resumo</b></h3>
 CRUD de usuário utilizando arquitetura de microserviços, Java e React. 
 
 
-<h2><b>Dependências Necessárias</b></h2>
+<h4><b>Dependências Necessárias</b></h4>
 
-<h2><b>FRONT-END:</b></h2>
+<h3><b>FRONT-END:</b></h3>
 
-<h3>1 - Node.js instalado</h3>
+<h4>1 - Node.js instalado</h4>
 
     https://nodejs.org/en/
     
-<h3>2 -  Pacote npm que já vem automaticamente no Node.js, no mínimo a versão 5.2</h3>
+<h4>2 -  Pacote npm que já vem automaticamente no Node.js, no mínimo a versão 5.2</h4>
     
-<h3>3 - Utilizar para instalar dependencias </h3>
+<h4>3 - Utilizar para instalar dependencias </h4>
 
     npm i
 
-<h3>4 - Utilizar para iniciar react</h3>
+<h4>4 - Utilizar para iniciar react</h4>
 
     npm start
 
-<h2><b>BACK-END:</b></h2>
+<h3><b>BACK-END:</b></h3>
 
-<h3>1 - Java 17</h3>
+<h4>1 - Java 17</h4>
 
     https://www.oracle.com/br/java/technologies/downloads/#java17
 
@@ -30,12 +30,12 @@ CRUD de usuário utilizando arquitetura de microserviços, Java e React.
   
     https://www.apachefriends.org/pt_br/download.html
 
-<h3>3 - Intellij ou VsCode com Plugin para Spring Boot</h3>
+<h4>3 - Intellij ou VsCode com Plugin para Spring Boot</h4>
 
     https://www.jetbrains.com/pt-br/idea/download/#section=windows
     
     https://code.visualstudio.com/download
     
-<h3>4 - Gerenciador de banco de dados</h3>
+<h4>4 - Gerenciador de banco de dados</h4>
     
     https://dev.mysql.com/downloads/workbench/
