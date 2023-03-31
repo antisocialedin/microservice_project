@@ -45,13 +45,13 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "D:/DEV/microservice_project/rest_api/src/main/java/com/example/rest_api",
+    "last_opened_file_path": "D:/DEV/microservice_project/gateway/src/main/java/com/example/gateway",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "spring.configuration.checksum": "b7eea8554af1d7396defa46ff861e18b",
+    "spring.configuration.checksum": "3046a54416e21792e2a59319948fbe96",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -63,6 +63,7 @@
       <recent name="com.example.userservice.controller" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\DEV\microservice_project\gateway\src\main\java\com\example\gateway" />
       <recent name="D:\DEV\microservice_project\rest_api\src\main\java\com\example\rest_api" />
       <recent name="D:\DEV\microservice_project\client\src\main\java\com\example\client" />
     </key>
@@ -125,11 +126,23 @@
       <workItem from="1680031415515" duration="34980000" />
       <workItem from="1680111758298" duration="9894000" />
       <workItem from="1680131017928" duration="25060000" />
-      <workItem from="1680189703117" duration="18993000" />
+      <workItem from="1680189703117" duration="28143000" />
+      <workItem from="1680222555083" duration="12672000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
