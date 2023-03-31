@@ -2,19 +2,19 @@
 
 <h1><b>Dependências Necessárias</b></h1>
 
-<h2><b>FRONT-END:</b></h1>
+<h2><b>FRONT-END:</b></h2>
 
 <h3>1 - Node.js instalado</h3>
 
     https://nodejs.org/en/
     
-<h4>2.1 -  Pacote npm que já vem automaticamente no Node.js, no mínimo a versão 5.2</h4>
+<h3>2 -  Pacote npm que já vem automaticamente no Node.js, no mínimo a versão 5.2</h3>
     
-<h3>2 - utilizar “npm i” para instalar dependencias </h3>
+<h3>3 - utilizar “npm i” para instalar dependencias </h3>
 
-<h3>2 - utilizar “npm start” para iniciar</h3>
+<h3>4 - utilizar “npm start” para iniciar</h3>
 
-<h2><b>BACK-END:</b></h1>
+<h2><b>BACK-END:</b></h2>
 
 <h3>1 - Java 17</h3>
 
