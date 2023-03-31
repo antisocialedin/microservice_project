@@ -12,6 +12,7 @@
     <modules>
         <module>userservice</module>
         <module>eureka</module>
+        <module>gateway</module>
     </modules>
 
     <groupId>com.example</groupId>

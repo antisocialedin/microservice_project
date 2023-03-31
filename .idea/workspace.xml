@@ -51,7 +51,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "spring.configuration.checksum": "3046a54416e21792e2a59319948fbe96",
+    "spring.configuration.checksum": "b7eea8554af1d7396defa46ff861e18b",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -79,7 +79,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.RestApiApplication">
+  <component name="RunManager" selected="Spring Boot.EurekaApplication">
     <configuration name="EurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="eureka" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.eureka.EurekaApplication" />
@@ -90,13 +90,6 @@
     <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="gateway" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.gateway.GatewayApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RestApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <module name="rest_api" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.rest_api.RestApiApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -112,7 +105,6 @@
       <item itemvalue="Spring Boot.EurekaApplication" />
       <item itemvalue="Spring Boot.UserApplication" />
       <item itemvalue="Spring Boot.GatewayApplication" />
-      <item itemvalue="Spring Boot.RestApiApplication" />
     </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -128,6 +120,7 @@
       <workItem from="1680131017928" duration="25060000" />
       <workItem from="1680189703117" duration="28143000" />
       <workItem from="1680222555083" duration="12672000" />
+      <workItem from="1680284467523" duration="216000" />
     </task>
     <servers />
   </component>
