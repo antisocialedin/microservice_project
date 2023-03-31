@@ -1,6 +1,8 @@
-# microservice_project
+<h2><b>Resumo</b></h2>
+CRUD de usuário utilizando arquitetura de microserviços, Java e React. 
 
-<h1><b>Dependências Necessárias</b></h1>
+
+<h2><b>Dependências Necessárias</b></h2>
 
 <h2><b>FRONT-END:</b></h2>
 
