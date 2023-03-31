@@ -1,10 +1,10 @@
-<h3><b>Resumo</b></h3>
+# <h3><b>Resumo</b></h3>
 CRUD de usuário utilizando arquitetura de microserviços, Java e React. 
+#
 
+<h3><b>Dependências Necessárias</b></h3>
 
-<h4><b>Dependências Necessárias</b></h4>
-
-<h3><b>FRONT-END:</b></h3>
+<h4><b>FRONT-END:</b></h4>
 
 <h4>1 - Node.js instalado</h4>
 
@@ -20,7 +20,7 @@ CRUD de usuário utilizando arquitetura de microserviços, Java e React.
 
     npm start
 
-<h3><b>BACK-END:</b></h3>
+<h4><b>BACK-END:</b></h4>
 
 <h4>1 - Java 17</h4>
 
