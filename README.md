@@ -10,9 +10,13 @@
     
 <h3>2 -  Pacote npm que já vem automaticamente no Node.js, no mínimo a versão 5.2</h3>
     
-<h3>3 - utilizar “npm i” para instalar dependencias </h3>
+<h3>3 - Utilizar para instalar dependencias </h3>
 
-<h3>4 - utilizar “npm start” para iniciar</h3>
+    npm i
+
+<h3>4 - Utilizar para iniciar react</h3>
+
+    npm start
 
 <h2><b>BACK-END:</b></h2>
 
